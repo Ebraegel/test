@@ -16,6 +16,10 @@ public class Testing{
         c = "STUFF";
     }
 
+    public int getA(){
+        return a;
+    }
+
     public String toString(){
         return "" + a + b + c;
     }
