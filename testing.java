@@ -5,6 +5,11 @@ public class Testing{
     int b
     String c
 
+	def ruby
+		puts "what is this java thing?"
+	end
+
+
     public Testing(){
         a = 1;
         b = 2;
@@ -15,3 +20,4 @@ public class Testing{
         return "" + a + b + c;
     }
 }
+
