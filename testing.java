@@ -5,7 +5,7 @@ public class Testing{
     int b
     String c
 
-	def ruby
+	def magic
 		puts "what is this java thing?"
 	end
 
