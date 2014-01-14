@@ -1,10 +1,10 @@
 //this line has stuff
 
 public class Testing{
-    int a
-    int b
-    String c
-
+    int a;
+    int b;
+    String c;
+    long guid;
 
 	def magic
 		puts "what is this java thing?"
@@ -22,7 +22,7 @@ public class Testing{
     }
 
     public String toString(){
-        return "" + a + b + c;
+        return "Magic is stupid" + guid;
     }
 }
 
