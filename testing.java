@@ -21,8 +21,13 @@ public class Testing{
         return a;
     }
 
+    public long getGuid(){
+        return guid;
+    }
+
     public String toString(){
         return "Magic is stupid" + guid;
     }
+
 }
 
